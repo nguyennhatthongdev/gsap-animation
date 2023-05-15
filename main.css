@@ -1,0 +1,8 @@
+section {
+    display: block;
+    height: 700px;
+    background-color: blue;
+    margin-bottom: 50px;
+    font-size: 50px;
+    text-align: center;
+}
